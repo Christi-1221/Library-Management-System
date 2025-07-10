@@ -12,7 +12,7 @@ The project showcases how simple logic and arrays can be used to create a user-d
 
 ---
 
-## ✅ Functionalities
+## Functionalities
 
 1. **User Registration**  
    - New users can register with a unique username and password.
@@ -35,9 +35,9 @@ The project showcases how simple logic and arrays can be used to create a user-d
 
 ---
 
-## 💻 Code Snippets
+## Code Snippets
 
-### 🔐 Login Function
+### Login Function
 
 ```cpp
 bool login() {
@@ -58,7 +58,7 @@ bool login() {
     return false;
 }
 ```
-### 📚 Add Book Function
+### Add Book Function
 
 ```cpp
 void add_book() {
@@ -72,7 +72,7 @@ void add_book() {
 }
 ```
 ---
-## 📦 Project Constraints
+## Project Constraints
 - Max Users: 10
 - Max Books: 20
 - No persistent storage (data lost after exit)
