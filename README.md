@@ -1,19 +1,4 @@
-# 📘 Library Management System
-
-## 📍 University: [Your University Name Here]  
-**Project Title**: Library Management System  
-**Course**: Programming Fundamentals I  
-**Group Members**:
-- Christian Fitsum – [Your ID Here]  
-- [Member 2 Name] – [ID]  
-- [Member 3 Name] – [ID]  
-
-**Instructor**: [Instructor's Name]  
-**Submission Date**: [Date]
-
----
-
-## 🔍 Overview
+# Library Management System
 
 This **Library Management System** is a basic C++ console application that allows users to register, log in, and manage books through a command-line interface. It simulates key operations of a real library system using core programming concepts such as:
 
